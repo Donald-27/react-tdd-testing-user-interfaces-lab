@@ -4,8 +4,8 @@ function App() {
       <h1>Hi, I'm Donald</h1>
 
       <img
-        src="https://via.placeholder.com/150"
-        alt="Photo of Alex smiling outdoors"
+        src="https://en.wikipedia.org/wiki/Programmer"
+        alt="Photo of donald smiling outdoors"
       />
 
       <h2>About Me</h2>

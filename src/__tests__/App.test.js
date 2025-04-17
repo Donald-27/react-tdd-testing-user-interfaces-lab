@@ -28,7 +28,7 @@ test("displays a second-level heading with the text About Me", () => {
 
 test("displays a paragraph for your biography", () => {
   render(<App />);
-  const paragraph = screen.getByText(/i.*(developer|student|love|passion)/i); // Update this pattern if needed
+  const paragraph = screen.getByText(/i.*(developer|student|love|passion)/i); 
   expect(paragraph).toBeInTheDocument();
 });
 
